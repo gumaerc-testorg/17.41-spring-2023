@@ -15,10 +15,10 @@ This policy memo is due at the end of week 10.
 
  
 
-​<sup>1</sup> Information from: Jeremy Mark and Dexter Tiff Roberts. (2023). “[United States–China semiconductor standoff: A supply chain under stress](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/united-states-china-semiconductor-standoff-a-supply-chain-under-stress/).” Atlantic Council. February 23, 2023.
+​<sup>1</sup> Information from: Jeremy Mark and Dexter Tiff Roberts. (2023). “{{% resource_link "7b6fb819-15e1-4c78-8518-4df50840101b" "United States–China semiconductor standoff: A supply chain under stress" %}}.” Atlantic Council. February 23, 2023.
 
-​<sup>2</sup> Ben Noon. (2023). “[Biden Needs to Broaden Semiconductor Sanctions on China](https://foreignpolicy.com/2023/04/03/chips-biden-xi-china-sanctions-semiconductors/).” *Foreign Policy* (April 3).
+​<sup>2</sup> Ben Noon. (2023). “{{% resource_link "acd1c1d6-cff7-409e-8680-a54ac7fddf31" "Biden Needs to Broaden Semiconductor Sanctions on China" %}}.” *Foreign Policy* (April 3).
 
-​<sup>3</sup> Matthew Gooding. (2023). “[China has a $143bn semiconductor plan to beat US chip sanctions](https://techmonitor.ai/technology/silicon/china-semiconductor-manufacturing-us).” *Tech Monitor* (August 16).
+​<sup>3</sup> Matthew Gooding. (2023). “{{% resource_link "63de1e76-487c-4ee0-a64a-01b91d6a7330" "China has a $143bn semiconductor plan to beat US chip sanctions" %}}.” *Tech Monitor* (August 16).
 
-​<sup>4</sup> Katrina Northrop. (2023). “[The Sanctions Sieve](https://www.thewirechina.com/2023/04/02/the-sanctions-sieve-winninc-aook/).” *The Wire Chin*a (April 2).
+​<sup>4</sup> Katrina Northrop. (2023). “{{% resource_link "752db140-9e52-4d16-abe1-b98b3efa53f9" "The Sanctions Sieve" %}}.” *The Wire Chin*a (April 2).
