@@ -31,7 +31,7 @@ For additional readings, see the {{% resource_link "369bb6c6-1a04-4cd6-9022-37e2
 
 ### News
 
-We will sometimes begin class by pulling up an online news source and discussing how concepts from class might help us understand ongoing world events. You will be more prepared for these discussions if you keep track of the news yourself, using, for example, {{% resource_link "c9e86211-1e5f-4e04-a8e9-4c1b32719a6b" "*The New York Times*" %}} and {{% resource_link "57b902dc-c4d3-40c8-947e-3021497c4046" "Fox News" %}}. 
+We will sometimes begin class by pulling up an online news source and discussing how concepts from class might help us understand ongoing world events. You will be more prepared for these discussions if you keep track of the news yourself, using, for example, [*The New York Times*](https://www.nytimes.com/) and [Fox News](https://www.foxnews.com/). 
 
 ### Grading Policy
 
