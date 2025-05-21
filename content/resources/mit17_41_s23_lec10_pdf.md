@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/17-41-introduction-to-international-relations-spring-2023/mit17_41_s23_lec10.pdf
+file: courses/introduction-to-international-relations/mit17_41_s23_lec10.pdf
 file_size: 733641
 file_type: application/pdf
 image_metadata:
