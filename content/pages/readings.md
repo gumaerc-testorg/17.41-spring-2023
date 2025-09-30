@@ -16,14 +16,14 @@ Session 1—Welcome: Making Sense of a Global Pandemic
 Session 2—Foundations: Frameworks for Understanding International Relations 
 
 - \[FLS\] Introduction, “Puzzles in Search of Explanations” and “The Framework” xxix–xxxviii.
-- Stephen Walt (1998). “[International Relations: One World, Many Theories](https://www.jstor.org/stable/1149275?typeAccessWorkflow=login).” *Foreign Policy* (Spring): 29–46. 
+- Stephen Walt (1998). “{{% resource_link "90347b76-04bf-4d34-a3d6-dfaa3516af41" "International Relations: One World, Many Theories" %}}.” *Foreign Policy* (Spring): 29–46. 
 
 ### Week 2
 
 Session 3—Foundations: Forgotten History of the International Relations Discipline 
 
-- Vitalis, Robert. *White World Order, Black Power Politics: The Birth of American International Relations*. Cornell University Press, 2015. ISBN: ‎9780801453977. Introduction, sections “International Relations 101” and “The Howard School” 5–8 and 11–14. \[Preview with [Google Books](https://www.google.com/books/edition/White_World_Order_Black_Power_Politics/mBTRCgAAQBAJ?hl=en&gbpv=1)\]
-- Tate, Merze, and Doris M. Hull. (1964). “[Effects of Nuclear Explosions on Pacific Islanders](https://www.jstor.org/stable/3636039?typeAccessWorkflow=login).” *Pacific Historical Review* 33(4): 379–393. 
+- Vitalis, Robert. *White World Order, Black Power Politics: The Birth of American International Relations*. Cornell University Press, 2015. ISBN: ‎9780801453977. Introduction, sections “International Relations 101” and “The Howard School” 5–8 and 11–14. \[Preview with {{% resource_link "042ab561-38a2-4cd5-9776-3056c4f78271" "Google Books" %}}\]
+- Tate, Merze, and Doris M. Hull. (1964). “{{% resource_link "1b0721de-f0f8-458d-bf60-98945a0f0467" "Effects of Nuclear Explosions on Pacific Islanders" %}}.” *Pacific Historical Review* 33(4): 379–393. 
 
 Session 4—Foundations: Interests, Interactions, and Institutions
 
@@ -34,7 +34,7 @@ Session 4—Foundations: Interests, Interactions, and Institutions
 Session 5—Foundations: Institutions and Cooperation 
 
 - \[FLS\] Chapter 2, “A Primer on Game Theory,” pp. 86–91.
-- Robert Jervis (1978). “[Cooperation Under the Security Dilemma](https://www.jstor.org/stable/2009958?typeAccessWorkflow=login).” *World Politics* 30(2): 167–214.  (Read only the first half, from 167 to top of 183.) 
+- Robert Jervis (1978). “{{% resource_link "9fe60886-2a19-45d8-9e7c-750b55b1ffab" "Cooperation Under the Security Dilemma" %}}.” *World Politics* 30(2): 167–214.  (Read only the first half, from 167 to top of 183.) 
 
 Session 6—Foundations: International Institutions, Law, and Norms 
 
@@ -59,14 +59,14 @@ Session 9—Applications: Domestic Interests and War 
 Session 10—Applications: Regime Type and War 
 
 - \[FLS\] Chapter 4, pp. 175–187.
-- Bruce Bueno de Mesquita and Alastair Smith. *The Dictator's Handbook: Why Bad Behavior Is Almost Always Good Politics*. PublicAffairs, 2011. ISBN: ‎9781610390446. Chapter 1. \[Preview with [Google Books](https://www.google.com/books/edition/The_Dictator_s_Handbook/K6Lk8IgACXMC?hl=en&gbpv=1)\]
+- Bruce Bueno de Mesquita and Alastair Smith. *The Dictator's Handbook: Why Bad Behavior Is Almost Always Good Politics*. PublicAffairs, 2011. ISBN: ‎9781610390446. Chapter 1. \[Preview with {{% resource_link "3f301c89-8738-474e-a125-baf859b94889" "Google Books" %}}\]
 
 ### Week 6
 
 Session 11—Applications: Psychology and War
 
 - Rose McDermott. *Presidential Leadership, Illness, and Decision Making.* Cambridge University Press, 2007. ISBN: ‎9780521882729. Chapter 1. 
-- Daniel Kahneman and Jonathan Renshon. (2007). “[Why Hawks Win](https://foreignpolicy.com/2009/10/13/why-hawks-win/).” *Foreign Policy* 158: 34–38.  
+- Daniel Kahneman and Jonathan Renshon. (2007). “{{% resource_link "d402f8f1-406f-4613-ba6f-b34107b12efa" "Why Hawks Win" %}}.” *Foreign Policy* 158: 34–38.  
 
 Session 12—Applications: Civil War and Terrorism 
 
@@ -90,19 +90,19 @@ Session 14—Applications: Trade (1)
 
 Session 15—Applications: Trade (2)
 
-- Dani Rodrik (2001). “[Trading in Illusions](https://www.jstor.org/stable/3183155?typeAccessWorkflow=login).” *Foreign Policy* 123: 55–62.
+- Dani Rodrik (2001). “{{% resource_link "05421b74-f8c3-4da2-a122-c8e3c8e965d4" "Trading in Illusions" %}}.” *Foreign Policy* 123: 55–62.
 
 ### Week 10
 
 Session 16—Applications: Development  (1)
 
 - \[FLS\] Chapter 10, pp. 449–481.
-- Paul Krugman (1997). “[In Praise of Cheap Labor: Bad Jobs at Bad Wages Are Better Than No Jobs at All](https://www.studymode.com/essays/Paul-Krugman-In-Praise-Of-Cheap-900471.html).” *Slate* (March 20). 
+- Paul Krugman (1997). “{{% resource_link "b11d6d8a-2b52-4fed-ab10-dc70bdf3f7bc" "In Praise of Cheap Labor: Bad Jobs at Bad Wages Are Better Than No Jobs at All" %}}.” *Slate* (March 20). 
 
 Session 17—Applications: Development  (2)
 
-- Dambisa Moyo. (2009) “[Why Foreign Aid Is Hurting Africa](https://www.wsj.com/articles/SB123758895999200083),” *Wall Street Journal*, March 21, 2009. (Optional: For the longer argument, see Dambisa Moyo. *Dead Aid.* Farrar, Straus and Giroux, 2009. ISBN: 9780374139568. Chapters 1–3. \[Preview with [Google Books](https://www.google.com/books/edition/Dead_Aid/2T_RbtTslzEC?hl=en&gbpv=1)\])
-- Jeffrey D. Sachs (2005). “[The Development Challenge](https://www.jstor.org/stable/20034277).” *Foreign Affairs* 84: 78–90.
+- Dambisa Moyo. (2009) “{{% resource_link "7ada4e46-1416-4359-80fa-04cb65d507d1" "Why Foreign Aid Is Hurting Africa" %}},” *Wall Street Journal*, March 21, 2009. (Optional: For the longer argument, see Dambisa Moyo. *Dead Aid.* Farrar, Straus and Giroux, 2009. ISBN: 9780374139568. Chapters 1–3. \[Preview with {{% resource_link "31360409-7766-472d-9455-df42726d16f3" "Google Books" %}}\])
+- Jeffrey D. Sachs (2005). “{{% resource_link "5ced05f4-a1ca-4e82-96c2-2a7e77372b1b" "The Development Challenge" %}}.” *Foreign Affairs* 84: 78–90.
 
 ### Week 11
 
@@ -116,7 +116,7 @@ Session 18—Applications: The Environment (1)
 
 Session 19—Applications: The Environment (2)
 
-- Gregg Easterbrook. “[Global Warming: Who Loses—and Who Wins?](https://www.brookings.edu/articles/global-warming-who-loses-and-who-wins/)” *The Atlantic,* 2007.
+- Gregg Easterbrook. “{{% resource_link "48b8efa1-d00d-4681-b864-fb47c0c7607d" "Global Warming: Who Loses—and Who Wins?" %}}” *The Atlantic,* 2007.
 
 ### Week 13
 
@@ -127,7 +127,7 @@ Session 20—Applications: Human Rights 
 Session 21—Applications: Nuclear Weapons (1)
 
 - Scott D. Sagan and Kenneth N. Waltz. *The Spread of Nuclear Weapons*. Norton, 1995. ISBN: 9780393967166. Chapters. 1–2. 
-- Jones, Parker F. 1969. “[Goldsboro Revisited or How I Learned to Mistrust the H-Bomb or To Set the Record Straight](https://www.theguardian.com/world/interactive/2013/sep/20/goldsboro-revisited-declassified-document).” 
+- Jones, Parker F. 1969. “{{% resource_link "a66ec9a0-455f-44ce-af41-60a6f6677d9b" "Goldsboro Revisited or How I Learned to Mistrust the H-Bomb or To Set the Record Straight" %}}.” 
 
 ### Week 14
 
